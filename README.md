@@ -4,7 +4,7 @@ VPN account တွေရဲ့ ဝင်ငွေ (Income) နဲ့ ကုန�
 လစဉ် အမြတ်/အရှုံး တွက်ချက်ဖို့အတွက် PHP + MySQL နဲ့ ရေးထားတဲ့ website ဖြစ်ပါတယ်။
 
 ## Features
-- Login (Username: `admin`, Password: `@dmin123` — hardcode ထားသည်)
+- Login (Username: `admin`, Password: `admin` — hardcode ထားသည်)
 - VPN Account CRUD (Username, Start Date, End Date, Amount, Expense, Note)
 - လစဉ် Income / Expense / Profit အလိုအလျောက် တွက်ချက်ပေးခြင်း (Month filter ဖြင့် ရွေးနိုင်သည်)
 - Excel (.xlsx) Export
