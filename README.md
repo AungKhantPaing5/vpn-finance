@@ -50,7 +50,7 @@ define('ADMIN_PASSWORD', 'admin');
 http://localhost/vpn_finance/login.php
 ```
 Username: `admin`
-Password: `@dmin123`
+Password: `admin`
 
 ## Folder Structure
 ```
