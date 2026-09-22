@@ -12,7 +12,7 @@ define('DB_NAME', 'vpn_finance');
 
 // ---- Admin Login (Username/Password ကို ဒီမှာပဲ အသေထားထားပါတယ်) ----
 define('ADMIN_USERNAME', 'admin');
-define('ADMIN_PASSWORD', '@dmin123');
+define('ADMIN_PASSWORD', 'admin');
 
 // ---- Timezone ----
 date_default_timezone_set('Asia/Yangon');
