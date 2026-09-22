@@ -42,7 +42,7 @@ define('DB_NAME', 'vpn_finance');
 Login username/password ပြောင်းလိုပါက အောက်ပါနေရာမှာ ပြောင်းနိုင်ပါတယ် -
 ```php
 define('ADMIN_USERNAME', 'admin');
-define('ADMIN_PASSWORD', '@dmin123');
+define('ADMIN_PASSWORD', 'admin');
 ```
 
 ### 4. Browser ထဲမှာ ဖွင့်ခြင်း
