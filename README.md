@@ -7,6 +7,11 @@ VPN account တွေရဲ့ ဝင်ငွေ (Income) နဲ့ ကုန�
 - Login (Username: `admin`, Password: `admin` — hardcode ထားသည်)
 - VPN Account CRUD (Username, Start Date, End Date, Amount, Expense, Note)
 - လစဉ် Income / Expense / Profit အလိုအလျောက် တွက်ချက်ပေးခြင်း (Month filter ဖြင့် ရွေးနိုင်သည်)
+- Name / VPN Username ဖြင့် ရှာဖွေခြင်း (စာလုံးတစ်စိတ်တစ်ပိုင်းဖြင့်လည်း ရှာနိုင်သည်)
+- Start Date / End Date ရက်အပိုင်းအခြားဖြင့် ရှာဖွေခြင်း (တစ်ရက်တည်းရှာရန် From/To နှစ်ခုလုံးကို တူညီသောရက်ထည့်ပါ)
+- All Months ကိုရွေးပြီး လအားလုံးမှ ရှာဖွေနိုင်သည်။ Name နှင့် Date filter တွဲသုံးနိုင်သည်။
+- Checkbox / Select All ဖြင့် ရွေးချယ်ပြီး Delete Selected ဖြင့် ဖျက်ခြင်း၊ confirmation နှင့် CSRF protection ပါသည်
+- Summary cards သည် ရွေးထားသောလ၏ totals ဖြစ်သည်။ Export သည် filter နှင့်ကိုက်ညီသောစာရင်းကို ထုတ်ပေးသည်။
 - Excel (.xlsx) Export
 - PDF Export
 - Database Backup (.sql download) & Restore (.sql upload)
